@@ -672,6 +672,10 @@ hr{
         padding-left: 0.7em;
     }
     
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
+    
     .navbar-brand img{
         width: 70% !important;
     }
@@ -1095,6 +1099,10 @@ ul {
 
     .nav-item{
         padding: 0.1em;
+    }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
     }
 
     .nav-item:last-child{
@@ -1526,6 +1534,10 @@ margin-left: -18vmin;
     .navbar-brand{
         padding-left: 0.2em;
     }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
 
     .navbar-brand img{
         width: 68% !important;
@@ -1953,6 +1965,10 @@ ul {
 
     .navbar-brand{
         padding-left: 0.2em;
+    }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
     }
 
     .navbar-brand img{
@@ -2382,6 +2398,10 @@ ul {
     .navbar-brand{
         padding-left: 0.2em;
     }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
 
     .navbar-brand img{
         width: 68%;
@@ -2807,17 +2827,4 @@ ul {
 
 }
 
-   
-
-
-
-
-    
-    
-
-
-
-   
-
-
-
+ 
