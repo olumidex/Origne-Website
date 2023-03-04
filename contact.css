@@ -543,6 +543,10 @@ ul {
     .navbar-brand{
         padding-left: 2em;
     }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
 
 
 .section5{
@@ -1035,6 +1039,10 @@ ul {
         padding-left: 0.7em;
     }
     
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
+    
     .navbar-brand img{
         width: 70% !important;
     }
@@ -1277,6 +1285,10 @@ ul {
 
     .navbar-brand{
         padding-left: 0.7em;
+    }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
     }
     
     .navbar-brand img{
@@ -1524,6 +1536,10 @@ ul {
 
     .navbar-brand{
         padding-left: 0.7em;
+    }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
     }
     
     .navbar-brand img{
