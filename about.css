@@ -516,6 +516,10 @@ ul {
     .navbar-brand{
         padding-left: 0.3em;
     }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
 
     .section{
         height: none;
@@ -885,6 +889,10 @@ ul {
 
     .nav-item{
         padding: 0.1em;
+    }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
     }
 
     .nav-item:last-child{
@@ -1261,6 +1269,10 @@ ul {
     .navbar-brand{
         padding-left: 0.2em;
     }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
 
     .navbar-brand img{
         width: 68%;
@@ -1636,6 +1648,10 @@ ul {
     .navbar-brand{
         padding-left: 0.2em;
     }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
+    }
 
     .navbar-brand img{
         width: 68%;
@@ -2009,6 +2025,10 @@ ul {
 
     .navbar-brand{
         padding-left: 0.2em;
+    }
+    
+    .icon-align-right{
+        color: #1F1C1C !important;
     }
 
     .navbar-brand img{
